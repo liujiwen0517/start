@@ -1,0 +1,14 @@
+2018-06-21 21:32:41,732 - server 77138 INFO  --start preprocessing data ...
+2018-06-21 21:32:41,737 - server 77138 INFO  --input param check: columns with the null value ...
+2018-06-21 21:32:41,737 - server 77138 INFO  ['debit_balance']
+2018-06-21 21:32:41,737 - server 77138 INFO  --predicting name is  王化楠
+2018-06-21 21:32:41,737 - server 77138 INFO  --predicting idcard is  232128198711153410
+2018-06-21 21:32:41,737 - server 77138 INFO  --predicting mobile is  18158114141
+2018-06-21 21:32:41,738 - server 77138 INFO  --input param check finish.
+2018-06-21 21:32:41,978 - server 77138 INFO  --preprocessing data finished.
+2018-06-21 21:32:41,978 - server 77138 INFO  --start loading model ...
+2018-06-21 21:32:42,027 - server 77138 INFO  --start calculate score ...
+2018-06-21 21:32:42,029 - server 77138 INFO  model predict finished !
+2018-06-21 21:32:42,032 - server 77138 INFO  score caculate finished !
+2018-06-21 21:32:42,032 - server 77138 INFO  --calculate score finished.
+2018-06-21 21:32:42,033 - server 77138 INFO  --predict success used time  305 ms.
